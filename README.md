@@ -20,7 +20,3 @@ This project is a simple demonstration of Python application development and tes
   - `bandit` for security analysis.
 
 ### 4. Jenkins Pipeline (`Jenkinsfile`)
-- (File content not previewed but assumed to include CI/CD pipeline configuration.)
-
-## Summary
-This project provides a foundation for Python development, testing, and CI/CD pipeline integration.
